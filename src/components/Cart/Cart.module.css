@@ -1,0 +1,8 @@
+.cart-product {
+  border: 1px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
+.list-container {
+  list-style: none;
+}
